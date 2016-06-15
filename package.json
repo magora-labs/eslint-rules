@@ -1,0 +1,32 @@
+{
+  "name": "eslint-rules",
+  "version": "0.0.1",
+  "description": "eslint rule set",
+  "keywords": [
+    "eslint",
+    "rules",
+    "style guide"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Philipp Wurz",
+    "email": "philipp.wurz@magora.com"
+  },
+  "contributors": [
+    {
+      "name": "Malte-Thorben Bruns",
+      "email": "malte.bruns+labs@magora.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magora-labs/eslint-rules.git"
+  },
+  "devDependencies": {
+    "changelog42": "0.9.0"
+  },
+  "scripts": {
+    "log": "changelog42 --no-author --commit-url=https://github.com/magora-labs/eslint-rules/commit",
+    "clean": "rm -rf node_modules/ && rm -f npm-debug.log"
+  }
+}
