@@ -21,6 +21,7 @@
     "newline-per-chained-call": 0,
     "no-cond-assign": 2,
     "no-console": 1,
+    "no-const-assign": 2,
     "no-constant-condition": 2,
     "no-delete-var": 2,
     "no-dupe-args": 2,
