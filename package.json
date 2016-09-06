@@ -1,5 +1,5 @@
 {
-  "name": "eslint-rules",
+  "name": "mgl-eslint-rules",
   "version": "1.0.0",
   "description": "eslint rule set",
   "keywords": [
