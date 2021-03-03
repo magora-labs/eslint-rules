@@ -1,7 +1,7 @@
 {
   "name": "mgl-eslint-rules",
-  "version": "1.1.0",
-  "description": "eslint rule set",
+  "version": "2.0.0",
+  "description": "eslint rule set from res-dev-standard-2020",
   "keywords": [
     "eslint",
     "rules",
@@ -12,12 +12,6 @@
     "name": "Philipp Wurz",
     "email": "philipp.wurz@magora.com"
   },
-  "contributors": [
-    {
-      "name": "Malte-Thorben Bruns",
-      "email": "malte.bruns+labs@magora.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/magora-labs/eslint-rules.git"
