@@ -12,7 +12,7 @@ Style rules closely follow google's javascript style guide.
 
 Create a `.eslintrc` with
 
-```js
+```json
 {
   "extends": [
     "./node_modules/mgl-eslint-rules/.eslintrc"
