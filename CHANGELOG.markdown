@@ -1,6 +1,6 @@
 # eslint-rules ChangeLog
 
-## 2020-03-03, [v2.0.0](https://github.com/magora-labs/eslint-rules/tree/v2.0.0) **_<small>stable</small>_**
+## 2021-03-03, [v2.0.0](https://github.com/magora-labs/eslint-rules/tree/v2.0.0) **_<small>stable</small>_**
 
 ### Commits
 
