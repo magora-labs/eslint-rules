@@ -1,5 +1,12 @@
 # eslint-rules ChangeLog
 
+## 2020-03-03, [v2.0.0](https://github.com/magora-labs/eslint-rules/tree/v2.0.0) **_<small>stable</small>_**
+
+### Commits
+
+  - [[`90f1aba172`](https://github.com/magora-labs/eslint-rules/commit/90f1aba172aa0d858b1d8dbaffdeb9c2fa5b11ce)] - **rules**: use res-dev-standard-2020
+
+
 ## 2016-06-15, [v1.1.0](https://github.com/magora-labs/eslint-rules/tree/v1.1.0) **_<small>stable</small>_**
 
 ### Commits
